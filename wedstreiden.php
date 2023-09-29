@@ -33,6 +33,7 @@ include_once 'includes/header.php';
         ?>
     </div>
     <script src="js/navbar.js"></script>
+    <script src="ajax/wedstreid.js"></script>
 </body>
 
 </html>
