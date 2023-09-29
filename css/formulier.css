@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
   
-  input[type=text],input[type=email], select {
+  input[type=text],input[type=email],input[type=date], select {
     width: 100%;
     padding: 12px;
     border: 1px solid #ccc;
@@ -15,7 +15,7 @@
     display: inline-block;
   }
   
-  #zeilerOpslaan {
+  .oplsaanBtn {
     background-color: #2454a4;
     color: white;
     padding: 12px 20px;
@@ -25,7 +25,7 @@
     float: right;
   }
   
-  #zeilerOpslaan:hover {
+  .oplsaanBtn:hover {
     background-color: #2d69ce;
   }
   
@@ -62,7 +62,7 @@
       width: 100%;
       margin-top: 0;
     }
-    #zeilerOpslaan{
+    .oplsaanBtn{
       width: 100%;
     }
   }

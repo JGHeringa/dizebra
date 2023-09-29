@@ -52,7 +52,7 @@ include_once 'includes/header.php';
             </div>
             <br>
             <div class="row">
-                <button id="zeilerOpslaan">Zeiler Toevoegen</button>
+                <button id="zeilerOpslaan" class="oplsaanBtn">Zeiler Toevoegen</button>
             </div>
             <span id="fromNote"></span>
         </div>
